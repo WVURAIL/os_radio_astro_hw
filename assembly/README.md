@@ -12,6 +12,7 @@ The [version 3 schematic](../design/amplifier-v3.pdf) is stored with its editabl
 The parts guides retain the component values imported from the DSPIRA lesson repository.
 Their original [MIT notice](../licenses/assembly.txt) remains available.
 
-Printable guides use the WVU DSPIRA header, Arial text, and numbered pages.
+Printable guides use a navy header band with a gold rule, white 16-point WVU DSPIRA lettering, and the university name.
+Keep Arial text and numbered pages. Fit the banner above the content without moving diagrams or changing their scale.
 Editable Word files sit beside their PDFs. Find all classroom downloads in the [teacher catalog](https://wvurail.org/dspira/teaching-resources/#amplifier-assembly).
 Preserve component values and original circuit drawings when editing the guides.
