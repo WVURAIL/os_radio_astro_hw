@@ -7,6 +7,7 @@
 | [June 22, 2018 assembly guide](assembly-guide-2018-06-22.pdf) | Pranav Sanghavi's institute guide |
 
 These documents retain their original contents, credits, and revision details.
+Their layout now matches the DSPIRA classroom documents, with editable Word companions beside each PDF.
 They supplement the [current construction lesson](https://wvurail.org/dspira/DetailedLNAInstructions); they do not define a new board revision.
 Older component choices, bias settings, and cost estimates may differ from your board.
 
