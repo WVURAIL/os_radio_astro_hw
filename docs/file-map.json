@@ -1,0 +1,27 @@
+{
+  "previous_revision": "c61eb7a74ab0a659dc0ce6df278c01334b64485a",
+  "description": "Earlier paths and their current replacements. Retired import records remain in Git history.",
+  "files": {
+    "HI_Amplifer_schematic.SchDoc": "design/altium/HI_Amplifer_schematic.SchDoc",
+    "HI_Amplifier.PcbDoc": "design/altium/HI_Amplifier.PcbDoc",
+    "Neutral_Hydrogen_amplifier_v3.pdf": "design/amplifier-v3.pdf",
+    "docs/assembly/README.md": "assembly/README.md",
+    "docs/assembly/parts-guide-v4.pdf": "assembly/parts-guide-v4.pdf",
+    "docs/assembly/component-locations.jpg": "assembly/component-locations.jpg",
+    "docs/assembly/history/parts-guide-v3.pdf": "assembly/reference/parts-guide-v3.pdf",
+    "docs/institute/lna-assembly.pdf": "assembly/reference/assembly-notes.pdf",
+    "docs/institute/lna-assembly-2018-06-22.pdf": "assembly/reference/assembly-guide-2018-06-22.pdf",
+    "docs/institute/lna-design-memo-2017.pdf": "docs/amplifier-design-2017.pdf",
+    "docs/institute/README.md": "assembly/reference/README.md",
+    "docs/assembly/LICENSE.txt": "licenses/assembly.txt",
+    "docs/institute/SOURCE-LICENSE.txt": "licenses/institute.txt",
+    "HI_amp_v3_gerbers/HI_Amplifier.GBL": "fabrication/v3/amplifier-v3.GBL",
+    "HI_amp_v3_gerbers/HI_Amplifier.GBO": "fabrication/v3/amplifier-v3.GBO",
+    "HI_amp_v3_gerbers/HI_Amplifier.GBS": "fabrication/v3/amplifier-v3.GBS",
+    "HI_amp_v3_gerbers/HI_Amplifier.GKO": "fabrication/v3/amplifier-v3.GKO",
+    "HI_amp_v3_gerbers/HI_Amplifier.GTL": "fabrication/v3/amplifier-v3.GTL",
+    "HI_amp_v3_gerbers/HI_Amplifier.GTO": "fabrication/v3/amplifier-v3.GTO",
+    "HI_amp_v3_gerbers/HI_Amplifier.GTS": "fabrication/v3/amplifier-v3.GTS",
+    "HI_amp_v3_gerbers/HI_Amplifier.TXT": "fabrication/v3/amplifier-v3.TXT"
+  }
+}
