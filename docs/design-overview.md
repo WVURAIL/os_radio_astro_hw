@@ -31,9 +31,13 @@ Consult the SAV-541 datasheet when evaluating that device.
 ## Earlier design notes
 
 The [2017 memo](amplifier-design-2017.pdf) records the original rationale and measurements.
+An [editable Word copy](amplifier-design-2017.docx) uses the current WVU DSPIRA document template.
 The [earlier assembly references](../assembly/reference/) explain institute builds.
 Their component choices, bias settings, and cost estimates are historical.
 Match those documents to your actual board revision.
+
+The schematic PDF keeps the original drawing scale, with the header and page numbers outside the drawing area.
+Print it at actual size when scale matters.
 
 ## Bill of materials
 
