@@ -30,3 +30,22 @@ Add old-to-new paths to `docs/file-map.json` and update affected links in the `d
 
 A machine-readable bill of materials is still needed.
 Export it from Altium and verify it against the schematic and parts guide before publishing it.
+
+## Check the repository
+
+Use Python 3.12 in a virtual environment, then run:
+
+```sh
+python -m pip install -r ci/requirements.txt
+python scripts/check-hardware-files.py
+```
+
+The same check runs on pushes and pull requests. It checks historical file-map
+paths, readable PDF structure, matching Word/PDF files, and the complete version 3
+fabrication set with basic Gerber/drill markers. A new board revision needs its
+own reviewed file list before extending the check.
+
+These checks do not compare rendered Word/PDF content, verify a BOM, prove
+schematic/layout agreement, or validate electrical or manufacturing behavior.
+Keep the manual design review above. CI dependency updates are grouped weekly;
+major updates remain separate pull requests.
