@@ -8,7 +8,7 @@
 
 These documents retain their original contents, credits, and revision details.
 Their layout now matches the DSPIRA classroom documents, with editable Word companions beside each PDF.
-They supplement the [current construction lesson](https://wvurail.org/dspira/DetailedLNAInstructions); they do not define a new board revision.
+They supplement the [current construction lesson](https://rail.wvu.edu/dspira/DetailedLNAInstructions); they do not define a new board revision.
 Older component choices, bias settings, and cost estimates may differ from your board.
 
 The parts guide retains the [lesson repository's MIT notice](../../licenses/assembly.txt).

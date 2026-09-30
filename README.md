@@ -3,7 +3,7 @@
 Design and fabrication files for the DSPIRA hydrogen-line low-noise amplifier, designed by Kevin Bandura at West Virginia University.
 The amplifier serves the DSPIRA horn telescope at 1420 MHz.
 
-Start with the [hardware guide](https://wvurail.org/dspira/hardware/) or the [amplifier construction lesson](https://wvurail.org/dspira/DetailedLNAInstructions).
+Start with the [hardware guide](https://rail.wvu.edu/dspira/hardware/) or the [amplifier construction lesson](https://rail.wvu.edu/dspira/DetailedLNAInstructions).
 
 ## Find what you need
 
@@ -21,10 +21,10 @@ Start with the [hardware guide](https://wvurail.org/dspira/hardware/) or the [am
 1. Review the [version 3 schematic](design/amplifier-v3.pdf) and match the documents to your board revision.
 2. Order components using the [revision 4 parts guide](assembly/parts-guide-v4.pdf).
 3. Send the eight files in [fabrication/v3](fabrication/v3/) to your board manufacturer.
-4. Follow the [construction lesson](https://wvurail.org/dspira/DetailedLNAInstructions), using the [component locations](assembly/component-locations.jpg).
+4. Follow the [construction lesson](https://rail.wvu.edu/dspira/DetailedLNAInstructions), using the [component locations](assembly/component-locations.jpg).
 
 The [design overview](docs/design-overview.md) explains the amplifier and remaining documentation work.
-For commercial alternatives, see the [amplifier options lesson](https://wvurail.org/dspira/LNA).
+For commercial alternatives, see the [amplifier options lesson](https://rail.wvu.edu/dspira/LNA).
 
 ## Names and contributions
 
@@ -34,7 +34,7 @@ The [file map](docs/file-map.json) lists earlier paths and their replacements.
 Follow the [contribution guide](CONTRIBUTING.md) when updating a design or fabrication set.
 
 Previously named `os_radio_astro_hw`. Keep that name unused so GitHub's repository redirects continue working.
-See the [repository map](https://wvurail.org/dspira/repository-map/) for related projects.
+See the [repository map](https://rail.wvu.edu/dspira/repository-map/) for related projects.
 
 Lessons belong in [dspira](https://github.com/WVURAIL/dspira).
 Applications and processing code belong in [dspira-software](https://github.com/WVURAIL/dspira-software).
