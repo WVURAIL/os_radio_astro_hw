@@ -6,7 +6,7 @@
 
 The parts guide revision is separate from the board revision.
 Match the guide and schematic to your actual board before ordering components.
-Use the [construction lesson](https://wvurail.org/dspira/DetailedLNAInstructions) for soldering instructions, videos, and coating guidance.
+Use the [construction lesson](https://rail.wvu.edu/dspira/DetailedLNAInstructions) for soldering instructions, videos, and coating guidance.
 The [version 3 schematic](../design/amplifier-v3.pdf) is stored with its editable design files.
 
 The parts guides retain the component values imported from the DSPIRA lesson repository.
@@ -14,5 +14,5 @@ Their original [MIT notice](../licenses/assembly.txt) remains available.
 
 Printable guides use a navy header band with a gold rule, white 16-point WVU DSPIRA lettering, and the university name.
 Keep Arial text and numbered pages. Fit the banner above the content without moving diagrams or changing their scale.
-Editable Word files sit beside their PDFs. Find all classroom downloads in the [teacher catalog](https://wvurail.org/dspira/teaching-resources/#amplifier-assembly).
+Editable Word files sit beside their PDFs. Find all classroom downloads in the [teacher catalog](https://rail.wvu.edu/dspira/teaching-resources/#amplifier-assembly).
 Preserve component values and original circuit drawings when editing the guides.
