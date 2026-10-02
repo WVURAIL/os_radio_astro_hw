@@ -1,0 +1,6 @@
+# Preserve exported fabrication files exactly, including line endings.
+fabrication/v*/* -text
+
+# Preserve the imported historical source checksums across checkouts.
+assembly/reference/assembly-guide-2018-06-22-sources/*.tex -text
+assembly/reference/assembly-guide-2018-06-22-sources/*.sty -text
